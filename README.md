@@ -15,10 +15,10 @@
 3. Matplotlib library is required to visualise the data.
 
 ## Results
-* Figure:
+* **Figure**:
 ![result-chart](https://github.com/anhthiphuongtran/btc-search-and-price/assets/105230494/19f231af-b127-4d98-88a2-f9e194c73654)
 
-* Comments:
+* **Comments**:
 
 As can be seen, the movements of BTC price are clearly associated with movements BTC Search Trend. It seems that everyone was talking about Bitcoin in late 2017/early 2018 so search volumes were at a record high! However, after that, the Google search interest for BTC quickly plunged. Similarly, Bitcoin price spent most of 2018 in a downtrend, falling throughout the year, following a brief surge to start the year. Both BTC price and Google Search Trend were at low levels during 2019 and early 2020, despite some small associated fluctations.
 
